@@ -32,7 +32,7 @@
 
     <!-- Static Sub-header -->
     <div class="sub-header">
-        <h2>This application was created for Kuberenetes app</h2>
+        <h2>This application was created for Kuberenetes assignment</h2>
     </div>
 
     <!-- Centered Search Box -->
